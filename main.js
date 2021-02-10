@@ -7,5 +7,5 @@ function SS(){
     localStorage.setItem("score",score);
 }
 function NP(){
-    window.location("activity2.html");
+    window.location = "activity2.html";
 }
